@@ -1,11 +1,5 @@
 
 
-https://django-template.vercel.app/
-
-## How it Works
-
-Our Django application, `example` is configured as an installed application in `vercel_app/settings.py`:
-
 ```python
 # vercel_app/settings.py
 INSTALLED_APPS = [
